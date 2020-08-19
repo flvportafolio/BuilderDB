@@ -13,7 +13,7 @@ Este proyecto tiene la premisa de optimizar el tiempo de desarrollo de software 
 | **TECNOLOGIAS UTILIZADAS:** PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap y jQuery  |
 | **SITIO WEB RESPONSIVO:** SÍ  |
 | **ESTADO DEL PROYECTO:** ACTIVO  |
-| **HERRAMIENTAS UTILIZADAS:** Visual Studio Code, Visual Studio 2019, Laragon.  |
+| **HERRAMIENTAS UTILIZADAS:** Visual Studio Code, Laragon.  |
 
 ## Implementación
 
@@ -21,7 +21,6 @@ primeramente necesitaras lo siguiente:
 1) estar desarollando localmente.
 2) tu base de datos en MySQl
 3) tener conocimientos de POO.
-
 
 ### SELECCIONAR, CONSTRUIR Y COPIAR
 
