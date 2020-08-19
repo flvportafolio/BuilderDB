@@ -1,1 +1,0 @@
-en esta carpeta se almacena el codigo css.
