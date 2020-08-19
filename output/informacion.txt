@@ -1,0 +1,4 @@
+/*      Borrar Archivo Despues de Leer    */
+1) La Carpeta Output almacenara el modelo,las reglas de negocio y el archivo de configuracion de la Base de Datos.
+2) En caso de no existir esta Carpeta "Output", el sistema lo generara automaticamente.
+3) Cada vez que se genere el modelo de tu proyecto, las anteriores compilaciones del modelo seran eliminadas automaticamente o reemplazadas por completo.
