@@ -19,7 +19,7 @@ Este proyecto tiene la premisa de optimizar el tiempo de desarrollo de software 
 
 primeramente necesitaras lo siguiente:
 1) estar desarollando localmente.
-2) tu base de datos en MySQl
+2) tu base de datos en MySQL
 3) tener conocimientos de POO.
 
 ### SELECCIONAR, CONSTRUIR Y COPIAR
