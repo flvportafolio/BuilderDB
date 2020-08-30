@@ -22,6 +22,9 @@ primeramente necesitaras lo siguiente:
 2) tu base de datos en MySQL
 3) tener conocimientos de POO.
 
+Luego de tener estos requisitos debes hacer lo siguiente:
+**Modificar el valor de las variables $usuario y $pwsd en el Archivo ConectDB.php** con tus credenciales de acceso a tu base de datos, por defecto esta root y sin contraseña.
+
 ### SELECCIONAR, CONSTRUIR Y COPIAR
 
 En estos 3 simples pasos consistira el uso de BuilderDB, Selecciona tu Base de Datos ya creada en MySQL, luego la Construyes y finalmentes copias la carpeta model en tu proyecto MVC.
