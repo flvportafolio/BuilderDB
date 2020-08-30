@@ -19,9 +19,9 @@ Este proyecto tiene la premisa de optimizar el tiempo de desarrollo de software 
 
 Primeramente necesitaras lo siguiente:
 
-a. estar desarollando localmente.
-b. tu base de datos en MySQL
-c. tener conocimientos de POO.
+1. estar desarollando localmente.
+2. tu base de datos en MySQL
+3. tener conocimientos de POO.
 
 
 Luego de tener estos requisitos debes hacer lo siguiente:
