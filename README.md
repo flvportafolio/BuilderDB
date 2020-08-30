@@ -17,12 +17,12 @@ Este proyecto tiene la premisa de optimizar el tiempo de desarrollo de software 
 
 ## Implementación
 
-primeramente necesitaras lo siguiente:
-1) estar desarollando localmente.
-2) tu base de datos en MySQL
-3) tener conocimientos de POO.
+1) Primeramente necesitaras lo siguiente:
+a) estar desarollando localmente.
+b) tu base de datos en MySQL
+c) tener conocimientos de POO.
 
-Luego de tener estos requisitos debes hacer lo siguiente:
+2) Luego de tener estos requisitos debes hacer lo siguiente:
 
 **Modificar el valor de las variables $usuario y $pwsd en el Archivo ConectDB.php** con tus credenciales de acceso a tu base de datos, por defecto esta root y sin contraseña.
 
