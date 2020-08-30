@@ -23,6 +23,7 @@ primeramente necesitaras lo siguiente:
 3) tener conocimientos de POO.
 
 Luego de tener estos requisitos debes hacer lo siguiente:
+
 **Modificar el valor de las variables $usuario y $pwsd en el Archivo ConectDB.php** con tus credenciales de acceso a tu base de datos, por defecto esta root y sin contraseña.
 
 ### SELECCIONAR, CONSTRUIR Y COPIAR
