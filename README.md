@@ -1,18 +1,15 @@
 # BuilderDB
 
-Generador de Reglas de Negocio para proyectos MVC - MicroFramework PHP para Backend.
+Generador de Reglas de Negocio para proyectos MVC.
 
 ## Informacion General
 
-BuilderDB es un Generador de Reglas de Negocio para proyectos MVC en web, ayuda en el desarrollo del Backend y en en el modelo de tu proyecto.
-
-Este proyecto tiene la premisa de optimizar el tiempo de desarrollo de software y esta pensado para ser usado por desarolladores web en etapa de aprendizaje y cualquiera que entienda el funcionamiento de este microframework.
+Este proyecto tiene la premisa de optimizar el tiempo de desarrollo de software y esta pensado para ser usado por desarolladores web en etapa de aprendizaje ó cualquiera que necesite agilizar la parte del Backend de su Proyecto.
 | DETALLES DEL PROYECTO  |
 | ------------- |
 | **TIPO DE PROYECTO:** WEB  |
 | **TECNOLOGIAS UTILIZADAS:** PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap y jQuery  |
 | **SITIO WEB RESPONSIVO:** SÍ  |
-| **ESTADO DEL PROYECTO:** ACTIVO  |
 | **HERRAMIENTAS UTILIZADAS:** Visual Studio Code, Laragon.  |
 
 ## Implementación
