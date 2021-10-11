@@ -4,7 +4,7 @@ Generador de Reglas de Negocio para proyectos MVC.
 
 ## Informacion General
 
-Este proyecto permite crear las reglas de negocio automaticamente tomando como base una base de datos ya creada en MySQL en un entorno local.
+Este proyecto permite crear las reglas de negocio automaticamente a partir de una base de datos ya creada en MySQL en un entorno local.
 | DETALLES DEL PROYECTO  |
 | ------------- |
 | **TIPO DE PROYECTO:** WEB  |
