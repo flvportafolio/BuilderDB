@@ -33,5 +33,3 @@ En estos 3 simples pasos consistira el uso de BuilderDB, Selecciona tu Base de D
 | ------ | ------ | ------ |
 | ![Paso 1](https://github.com/flvportafolio/BuilderDB/blob/master/paso1.png) | ![Paso 2](https://github.com/flvportafolio/BuilderDB/blob/master/paso2.png) | ![Paso 3](https://github.com/flvportafolio/BuilderDB/blob/master/paso3.png) |
 
-## License
-[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
